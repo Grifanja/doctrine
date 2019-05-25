@@ -1,0 +1,9 @@
+{
+    "require": {
+        "doctrine/orm": "^2.6",
+        "symfony/console": "^4.2",
+        "symfony/yaml": "^4.2",
+        "symfony/orm-pack": "^1.0",
+        "doctrine/annotations": "^1.6"
+    }
+}
