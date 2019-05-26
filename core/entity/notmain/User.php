@@ -1,4 +1,5 @@
 <?php
+namespace core\notmain;
 
 /**
  * Class User
@@ -14,8 +15,8 @@ class User
     /** @Column(type="string") **/
     protected $name;
 
-    /** @Coloum(type="string")  **/
-    protected $email;
+    /** @Column(type="string") **/
+    protected $email = "@";
 
     /**
      * @return mixed

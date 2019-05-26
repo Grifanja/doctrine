@@ -1,0 +1,5 @@
+<?php
+//alias
+//php doctrine orm:schema-tool:update -f
+
+include "vendor\doctrine\orm\bin\doctrine";

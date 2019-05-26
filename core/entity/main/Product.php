@@ -1,4 +1,5 @@
 <?php
+namespace core\main;
 
 /**
  * @Entity @Table(name="food")

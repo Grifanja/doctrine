@@ -1,7 +1,6 @@
 # ide
 
 .idea/
-config/
 core/vendor/
 index.php
 test.py
